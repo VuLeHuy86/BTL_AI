@@ -78,3 +78,4 @@ Tải repo về máy và đăng nhập tài khoản Kaggle. Chọn cặp noteboo
 | Mở rộng | Kết quả LinearSVC, loss và độ chính xác của CNN 1D, loss theo iteration và văn bản sinh ra từ Character-GPT. | `/kaggle/working/project5_extension_reports` |
 
 Xem log ngay dưới cell chạy. Mỗi thư mục kết quả có file `summary.txt` và log riêng cho từng câu hoặc mô hình.
+**Lưu ý về khả năng tái lập:** Khi chạy lại notebook, kết quả có thể chênh lệch nhẹ so với báo cáo do các yếu tố ngẫu nhiên trong quá trình.
